@@ -1,7 +1,7 @@
 ### Hi! My name is Ítalo Martins
 
 - 🔭 I’m currently working on Data Pipelines
-- 🌱 I’m currently learning PySpark
+- 🌱 I’m currently learning and working with PySpark and Airflow
 <div align="center">
   <a href="https://github.com/Itacolomi1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itacolomi1&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
